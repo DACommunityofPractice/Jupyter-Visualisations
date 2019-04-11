@@ -17,7 +17,7 @@ NOTE. An effective chart is one which:
   3. Aesthetics support the information rather than overshadow it. 
   4. Not overloaded with information.
 
-![alt text](http://url/to/img.png)
+![alt text](https://www.machinelearningplus.com/wp-content/uploads/2018/11/22_DensityPlot_Matplotlib-min-1024x640.png)
 
 ## __Prerequisites__
     1. Python installed |(latest version 3.+)
@@ -35,11 +35,11 @@ There are two options you can use to run this code, rather than just view within
 
 * Access the jupyter notebooks from the \\finbilab02\landing\ location. 
 
-With Python and Anaconda installed on the server, you will be able to access the Jupyter notebooks stored within this (DACommunityofPractice) GitHub repository. 
+* With Python and Anaconda installed on the server, you will be able to access the Jupyter notebooks stored within this (DACommunityofPractice) GitHub repository. 
 
-You will need use the 'Anaconda command line prompt' in order to get access the notebooks as follows:
+* You will need use the 'Anaconda command line prompt' in order to get access the notebooks as follows:
 
-![alt text](http://url/to/img.png)
+![alt-text](link)
 
 * Once the command line statement has run you will be able to view the following 'http://localhost:8888/tree' page, listing the files available to you to use.
 
@@ -47,13 +47,13 @@ You will need use the 'Anaconda command line prompt' in order to get access the 
 
 ###### _Option 2_ 
 
-Access the jupyter notebooks from your own machine. 
+* Access the jupyter notebooks from your own machine. 
 
-In order to do this you will have needed to have had Python and Anaconda installed on your machine. 
+* In order to do this you will have needed to have had Python and Anaconda installed on your machine. 
 
-As before, you would then be able to able to access the Jupyter notebooks stored within this (DACommunityofPractice) GitHub repository. 
+* As before, you would then be able to able to access the Jupyter notebooks stored within this (DACommunityofPractice) GitHub repository. 
 
-Again, the 'Anaconda command line prompt' will need used to access the notebooks.
+* Again, the 'Anaconda command line prompt' will need used to access the notebooks.
 
 ###### And finally...
 
@@ -63,7 +63,7 @@ Right click on the notebook you are interested in, having first viewed the conte
 Use the 'open with' option to open the notebook in notepad.
 
 ## __Authors__
-Anthoy Vidler & Lee Matthews (Creation of Jupyter notebooks from open source content)
+Anthony Vidler & Lee Matthews (Creation of Jupyter notebooks from open source content)
 
 ## __License__
 This project is licensed under the MIT License - see the LICENSE.md file for details
