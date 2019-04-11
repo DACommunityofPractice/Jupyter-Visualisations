@@ -1,4 +1,4 @@
-![alt text](https://searchengineland.com/figz/wp-content/seloads/2014/08/analytics-data-ss-19201-800x450.jpg)
+   ![alt text](https://searchengineland.com/figz/wp-content/seloads/2014/08/analytics-data-ss-19201-800x450.jpg)
 
 __Infolab:[Python Visualisations]__
 
