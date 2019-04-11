@@ -65,8 +65,5 @@ Use the 'open with' option to open the notebook in notepad.
 ## __Authors__
 Anthony Vidler & Lee Matthews (Creation of Jupyter notebooks from open source content)
 
-## __License__
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
 ## __Acknowledgments__
 Original source material posted on 'https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/'
