@@ -27,13 +27,13 @@ NOTE. An effective chart is one which:
 
 ## __Getting Started__
 
-There are two options you can use to run this code, rather than just view using the Jupyter Notebook viewer (links below):
+There are two options you can use to run this code, rather than just view using the Jupyter Notebook (.ipynb) viewer, the link is below:
 
    > https://nbviewer.jupyter.org/github/DACommunityofPractice/Jupyter-Visualisations
 
    
 
-###### _Option 1_ 
+###### _Option 1_ - Accecssing the virtual server
 
 * Access the jupyter notebooks from the \\finbilab02\landing\ location. 
 
@@ -47,22 +47,27 @@ There are two options you can use to run this code, rather than just view using 
 
 * Click on the file of your choice to run.
 
-###### _Option 2_ 
 
-* Access the jupyter notebooks from your own machine. 
+###### _Option 2_ - Running the notebooks locally
 
-* In order to do this you will have needed to have had Python and Anaconda installed on your machine. 
+* Access the jupyter notebooks from your own machine, having downloaded them from the '\\finbilab02\landing\' location. 
 
-* As before, you would then be able to able to access the Jupyter notebooks stored within this (DACommunityofPractice) GitHub repository. 
+* In order run these files, you will have needed to have had Python and Anaconda installed on your machine. 
 
-* Again, the 'Anaconda command line prompt' will need used to access the notebooks.
+* Again, the 'Anaconda command line prompt' shown above will need used to access the notebooks.
+
 
 ###### And finally...
 
-If you are not able to run these notebooks, but would still like to view and or copy the code, then access the server using the Windows Explorer location: '\\finbilab\landing\'.
+If you are not able to run these notebooks, but would still like to view and or copy the code, then access the server using the Windows Explorer location: '\\finbilab\landing\' or download the files stored within this repository.
 
-Right click on the notebook you are interested in, having first viewed the content useing the NBviewer links displayed above.
-Use the 'open with' option to open the notebook in notepad.
+Right click on the notebook you are interested in, having first viewed the content useing the NBviewer link.
+
+> https://nbviewer.jupyter.org/github/DACommunityofPractice/Jupyter-Visualisations
+
+To view the code within the .ipynb file, use the 'open with' righ-click mouse option to open the notebook in _Notepad_.
+
+The data sets have also been stored in the pository for you to access. 
 
 ## __Authors__
 Anthony Vidler & Lee Matthews (Creation of Jupyter notebooks from open source content)
