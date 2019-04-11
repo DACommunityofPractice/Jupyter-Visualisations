@@ -23,7 +23,7 @@ __Prerequisites__
     1. Python installed |(latest version 3.+)
     2. Anaconda installed |(lastest version)
     
-![alt text](https://www.clipartmax.com/png/middle/234-2342908_anaconda-anaconda-python-logo.png)
+![alt text](https://repo.continuum.io/assets/img/Anaconda_horizontal_RGB.png)
 
 __Getting Started__
 
