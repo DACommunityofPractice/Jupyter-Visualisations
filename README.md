@@ -1,12 +1,10 @@
-![InfoLab_Header.png](attachment:InfoLab_Header.png)
+![alt text](https://i.stack.imgur.com/RC7VS.png)
 
 __Infolab:[Python Visualisations]__
 
 A compilation of purpose-based matplotlib plots most useful in data analysis and visualization. This list provides a real choice as to which visualization to use for what situation, using python’s matplotlib and seaborn library.
 
-![stack Overflow](http://lmsotfy.com/so.png)
-
-![alt text](https://matplotlib.org/2.1.2/_static/logo2.png)<seaborn image>
+![alt text](https://matplotlib.org/2.1.2/_static/logo2.png) ![alt text](https://qph.fs.quoracdn.net/main-qimg-0a6595e24b8a7bed6139d8ba1ae2db64.png)
 
 The charts are grouped based by purpose, with the most popular visualizations displayed. For example, if you want to picturize the relationship between 2 variables, check out the plots under the ‘Correlation’ section. Or if you want to show how a value changed over time, look under the ‘Change’ section and so on.
 
