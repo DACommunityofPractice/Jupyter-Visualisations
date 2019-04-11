@@ -6,7 +6,7 @@ A compilation of purpose-based matplotlib plots most useful in data analysis and
 
 ![stack Overflow](http://lmsotfy.com/so.png)
 
-![alt text](http://url/to/img.png)<seaborn image>
+![alt text](https://matplotlib.org/2.1.2/_static/logo2.png)<seaborn image>
 
 The charts are grouped based by purpose, with the most popular visualizations displayed. For example, if you want to picturize the relationship between 2 variables, check out the plots under the ‘Correlation’ section. Or if you want to show how a value changed over time, look under the ‘Change’ section and so on.
 
