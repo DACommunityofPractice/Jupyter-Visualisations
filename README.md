@@ -39,7 +39,7 @@ Once the command line statement has run you will be able to view the following '
 
 Click on the file of your choice to run.
 
-_Option 2_ - Access the jupyter notebooks from your own machine. In order to do this you will have needed to have had Python and Anaconda installed on your machine. As before, you would then be able to able to access the Jupyter notebooks stored within this (DACommunityofPractice) GitHub repository. Again, the 'Anaconda command line prompt' will need used to access the notebooks.
+##_Option 2_ - Access the jupyter notebooks from your own machine. In order to do this you will have needed to have had Python and Anaconda installed on your machine. As before, you would then be able to able to access the Jupyter notebooks stored within this (DACommunityofPractice) GitHub repository. Again, the 'Anaconda command line prompt' will need used to access the notebooks.
 
 If you are not able to run these notebooks, but would still like to view and or copy the code, access the server using the Windows Explorer location: '\\finbilab\landing\'. Right click on the notebook you are interested in, having first viewed the content useing the NBviewer links displayed above. Use the 'open with' option to open the notebook in notepad.
 
