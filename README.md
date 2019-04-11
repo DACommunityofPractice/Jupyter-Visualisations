@@ -1,4 +1,4 @@
-![InfoLab_Header.png](attachment:InfoLab_Header.png)
+"![InfoLab_Header.png](attachment:InfoLab_Header.png)"
 
 Infolab:[Python Visualisations]
 
