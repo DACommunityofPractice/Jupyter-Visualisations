@@ -29,9 +29,9 @@ NOTE. An effective chart is one which:
 
 There are two options you can use to run this code, rather than just view using the Jupyter Notebook viewer (links below):
 
-> 1. https://nbviewer.jupyter.org/github/DACommunityofPractice/Jupyter-Visualisations/blob/master/InfoLab_Python_Correlation_Plots_1.ipynb
+   > https://nbviewer.jupyter.org/github/DACommunityofPractice/Jupyter-Visualisations
 
-2. 
+   
 
 ###### _Option 1_ 
 
