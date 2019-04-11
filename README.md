@@ -4,7 +4,7 @@ __Infolab:[Python Visualisations]__
 
 A compilation of purpose-based matplotlib plots most useful in data analysis and visualization. This list provides a real choice as to which visualization to use for what situation, using python’s matplotlib and seaborn library.
 
-![alt text](https://tacaswell.github.io/matplotlib/_static/logo2.svg) ![alt text](https://qph.fs.quoracdn.net/main-qimg-0a6595e24b8a7bed6139d8ba1ae2db64.png)
+![alt text](https://tacaswell.github.io/matplotlib/_static/logo2.svg) 
 
 The charts are grouped based by purpose, with the most popular visualizations displayed. For example, if you want to picturize the relationship between 2 variables, check out the plots under the ‘Correlation’ section. Or if you want to show how a value changed over time, look under the ‘Change’ section and so on.
 
@@ -23,7 +23,7 @@ __Prerequisites__
     1. Python installed |(latest version 3.+)
     2. Anaconda installed |(lastest version)
     
-![alt text](http://www.pythontraining.net/wp-content/uploads/2015/05/Python-logo-notext.svg_.png)![alt text](https://themarketingtechnologist-ghost.s3.amazonaws.com/2016/Sep/anaconda-1475142471227.jpg)
+![alt text](https://www.clipartmax.com/png/middle/234-2342908_anaconda-anaconda-python-logo.png)
 
 __Getting Started__
 
