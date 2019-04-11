@@ -1,6 +1,6 @@
 ![alt text](http://netplusprofit.unycredit.com/wp-content/uploads/2017/07/california-small-business-insurance-coverage.jpg)
 
-> __Infolab:[Python Visualisations]__
+># __Infolab:[Python Visualisations]__
 
 A compilation of purpose-based matplotlib plots most useful in data analysis and visualization. This list provides a real choice as to which visualization to use for what situation, using python’s matplotlib and seaborn library.
 
