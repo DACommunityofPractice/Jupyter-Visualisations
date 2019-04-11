@@ -1,4 +1,4 @@
-![alt text](https://udemy-images.udemy.com/course/480x270/2126318_14c6_6.jpg)
+![alt text](https://s3.amazonaws.com/libapps/accounts/35728/images/Banner.jpg)
 
 __Infolab:[Python Visualisations]__
 
