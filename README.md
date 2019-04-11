@@ -6,9 +6,7 @@ A compilation of purpose-based matplotlib plots most useful in data analysis and
 
 ![alt text](https://tacaswell.github.io/matplotlib/_static/logo2.svg) 
 
-The charts are grouped based by purpose, with the most popular visualizations displayed. For example, if you want to picturize the relationship between 2 variables, check out the plots under the ‘Correlation’ section. Or if you want to show how a value changed over time, look under the ‘Change’ section and so on.
-
-![alt text](http://url/to/img.png)
+The charts are grouped based by purpose, with the most popular visualizations displayed. For example, if you want to picturize the relationship between 2 variables, then the ‘Correlation’ plots notebook is for you! Or if you want to show how a value changed over time, then take a look at the ‘Change’ notebook.
 
 NOTE. An effective chart is one which:
 
