@@ -39,7 +39,7 @@ There are two options you can use to run this code, rather than just view within
 
 * You will need use the 'Anaconda command line prompt' in order to get access the notebooks as follows:
 
-![alt-text](link)
+![alt-text](https://github.com/DACommunityofPractice/Jupyter-Visualisations/blob/master/gif_startnotebook%5B1%5D.gif)
 
 * Once the command line statement has run you will be able to view the following 'http://localhost:8888/tree' page, listing the files available to you to use.
 
