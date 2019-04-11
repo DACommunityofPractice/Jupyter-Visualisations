@@ -1,4 +1,4 @@
-                    ![alt text](https://udemy-images.udemy.com/course/480x270/2126318_14c6_6.jpg)
+![alt text](https://udemy-images.udemy.com/course/480x270/2126318_14c6_6.jpg)
 
 __Infolab:[Python Visualisations]__
 
@@ -23,7 +23,7 @@ __Prerequisites__
     1. Python installed |(latest version 3.+)
     2. Anaconda installed |(lastest version)
     
-![alt text](http://url/to/img.png)
+![alt text](http://www.pythontraining.net/wp-content/uploads/2015/05/Python-logo-notext.svg_.png)![alt text](https://themarketingtechnologist-ghost.s3.amazonaws.com/2016/Sep/anaconda-1475142471227.jpg)
 
 __Getting Started__
 
